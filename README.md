@@ -1,2 +1,2 @@
-# cz_qwerty_programming_keyboard
-Czech QWERTY programming keyboard
+# Czech QWERTY programming keyboard
+![Keyboard layout](http://imgur.com/nQJN596.png)
